@@ -20,7 +20,7 @@ Below are some of the projects I have worked on.
 
 ### [**ClinicalTrial**](https://github.com/AlessioBezzi/ProjectPSD)
 **Date**: July 2025  \
-**Description**: Business process modeling project for clinical trial workflows, using BPMN choreography and Petri Nets to represent multi-actor interactions, integrated with RESTful services for feasibility analysis, protocol management, and data sharing agreements. \
+**Description**: Business process modeling project for clinical trial workflows, using BPMN choreography and Petri Nets to represent multi-actor interactions, integrated with RESTful services. \
 **Skills**: Javascript, Open API, BPMN, Petri net, Camunda
 
 ---
@@ -35,8 +35,7 @@ Below are some of the projects I have worked on.
 
 ### [**Smart Route**](https://github.com/AlessioBezzi/data-structure-and-algorithm-exam)
 **Date**: August 2023  \
-**Description**: Data structures and algorithms project implementing optimized pathfinding over a BST-based structure, minimizing memory usage and exploiting ordered traversal to avoid explicit graph representations. \
-**Skills**: C, Data Structures and Algorithm.
+**Description**: Data structures and algorithms project implementing optimized pathfinding over a BST-based structure.
 
 ---
 
