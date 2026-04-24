@@ -13,14 +13,14 @@ Below are some of the projects I have worked on.
 
 ### [**CityVG**](https://github.com/AlessioBezzi/CityVG)
 **Date**: January 2025  \
-**Description**: Cross-platform application for planning and exploring guided tours with interactive maps and seamless device switching.
+**Description**: Cross-platform application for planning and exploring guided tours with interactive maps and seamless device switching. \
 **Skills**: Python, Flutter, Firebase.
 
 ---
 
 ### [**ClinicalTrial**](https://github.com/AlessioBezzi/ProjectPSD)
 **Date**: July 2025  \
-**Description**: Business process modeling project for clinical trial workflows, using BPMN choreography and Petri Nets to represent multi-actor interactions, integrated with RESTful services for feasibility analysis, protocol management, and data sharing agreements.\
+**Description**: Business process modeling project for clinical trial workflows, using BPMN choreography and Petri Nets to represent multi-actor interactions, integrated with RESTful services for feasibility analysis, protocol management, and data sharing agreements. \
 **Skills**: Javascript, Open API, BPMN, Petri net, Camunda
 
 ---
